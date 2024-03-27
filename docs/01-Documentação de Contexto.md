@@ -1,4 +1,4 @@
-# Introdução
+# Introdução do escopo
 
 A era contemporânea tem sido profundamente influenciada pela ascendência da tecnologia, redefinindo interações sociais, padrões econômicos e comportamentos culturais. O surgimento dos dispositivos móveis e o avanço dos aplicativos delinearam novos horizontes para otimizar uma série de atividades humanas. Neste contexto, emerge a proposta de desenvolver um aplicativo móvel inovador, voltado para a negociação de livros. Este projeto visa conceber uma plataforma acessível e intuitiva que viabilize a compra e venda de livros, tanto novos quanto usados, em um ambiente que se assemelha a um marketplace. 
 
